@@ -1,1 +1,3 @@
 # employeesPick
+
+![](showWorkers.gif)
