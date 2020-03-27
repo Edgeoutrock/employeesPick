@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "fired": false,
+      "occupation": "Server",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "fired": true,
+      "occupation": "Manager",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "fired": true,
+      "occupation": "Manager",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "fired": false,
+      "occupation": "Server",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "fired": true,
+      "occupation": "Server",
+      "location": "Nowhere, Kansas"
+    }
+]
